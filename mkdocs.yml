@@ -1,0 +1,5 @@
+site_name: My MkDocs Site
+nav:
+  - Home: index.md
+theme:
+  name: material
