@@ -40,8 +40,6 @@ pip install mkdocs mkdocs-material
 
 mkdocs serve
 
-# открой http://127.0.0.1:8000 в браузере
-
 # 9. Собрать статический сайт
 
 mkdocs build
