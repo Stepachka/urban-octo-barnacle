@@ -1,0 +1,19 @@
+# виртуальное окружение
+.venv/
+venv/
+ENV/
+
+# кеши Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+
+# папка со статическим сайтом
+/site/
+
+# IDE и прочее
+.vscode/
+.idea/
+.DS_Store
