@@ -1,4 +1,2 @@
-# mkdocs-gh-pages-demo
-
 Пример статического сайта на MkDocs и готовый workflow для автоматического деплоя на GitHub Pages.
 Талабаев С.В.
