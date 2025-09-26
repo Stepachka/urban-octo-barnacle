@@ -1,3 +1,4 @@
+# .github/workflows/deploy.yml
 name: Build and deploy MkDocs to GitHub Pages
 
 on:
@@ -15,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
       - name: Install dependencies
         run: |
